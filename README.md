@@ -22,9 +22,9 @@
 - 🏫 High school student passionate about **technology ethics**
 - 🧭 Mission: Help people become **conscious tech users**
 - 🛠️ Developer skills:
-  - <img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  - <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
   - <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  - <img src="https://img.shields.io/badge/Lua-Intermediate-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
+  - <img src="https://img.shields.io/badge/Lua-Learning-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua">
 - ⚡ Cyber quirks: Can **read/write binary** and troubleshoot servers
 
 ## 🚀 My Digital Spaces
