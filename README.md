@@ -14,7 +14,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Programming-FFD43B?style=flat&logo=python&logoColor=blue" alt="Programming">
   <img src="https://img.shields.io/badge/Design-FF6B6B?style=flat&logo=figma&logoColor=white" alt="Design">
-  <img src="https://img.shields.io/badge/Server_Admin-003366?style=flat&logo=serverless&logoColor=white" alt="Server Admin">
   <img src="https://img.shields.io/badge/Computer_Science-00599C?style=flat&logo=computer&logoColor=white" alt="Computer Science">
 </p>
 
