@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Tuan!</h1>
+<h1 align="center">👋 Hi there, I'm Tuana!</h1>
 <h3 align="center">A high school student shaping the future of conscious technology</h3>
 
 <p align="center">
