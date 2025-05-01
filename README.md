@@ -42,10 +42,16 @@ Where my developer journey began:
 - Retired "Ender Paradise" server archives
 - Open-source map templates
 
-## 📚 School Projects Showcase
+## 📚 My Learning Journey
+
 ```python
-# Sample of what I'm learning
-def conscious_tech_quiz():
-    topics = ["Digital Minimalism", "Privacy Basics", "Algorithm Awareness"]
-    for topic in topics:
-        print(f"✅ Learned: {topic}")
+# What I'm exploring in tech consciousness
+def current_studies():
+    topics = {
+        "School": ["System Design", "Computer Fundamentals"],
+        "Self-Taught": ["Programming basics", "PHP Development", "Lua", "Digital Ethics", "UI/UX Principles", "Server Administration"]
+    }
+    for category, skills in topics.items():
+        print(f"\n🌱 {category}:")
+        for skill in skills:
+            print(f"  → {skill}")
